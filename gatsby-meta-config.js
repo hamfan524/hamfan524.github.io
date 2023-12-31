@@ -1,26 +1,26 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `개발하는 부산청년😎`,
+  description: `멋쟁이가 되어가는 중`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
+  siteUrl: `https://www.hamfan524.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: ``, // `hamfan524/hamfan524-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `최동호`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `iOS 개발자`,
+      description: ['소통과 함께 발전하는', '새로움을 좋아하는', '즐거움을 추구하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      github: `https://github.com/hamfan524`, // `https://github.com/hamfan524`,
+      linkedIn: `https://velog.io/@hamfan524/posts`, // ``,
+      email: `donghochoi312@gmail.com`, // `donghochoi312@gmail.com`,
     },
   },
 
