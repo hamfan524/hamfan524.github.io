@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `iOS 개발자`,
       description: ['소통과 함께 발전하는', '새로움을 좋아하는', '즐거움을 추구하는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'dongho.gif', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/hamfan524`, // `https://github.com/hamfan524`,
