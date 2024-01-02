@@ -19,7 +19,7 @@ module.exports = {
     },
     social: {
       github: `https://github.com/hamfan524`, // `https://github.com/hamfan524`,
-      linkedIn: `https://www.linkedin.com/in/%EB%8F%99%ED%98%B8-%EC%B5%9C-879a04299/`, // ``,
+      linkedIn: `https://www.linkedin.com/in/dev-ios-dongho-879a04299/`, // ``,
       email: `donghochoi312@gmail.com`, // `donghochoi312@gmail.com`,
     },
   },
