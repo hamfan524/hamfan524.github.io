@@ -19,7 +19,7 @@ module.exports = {
     },
     social: {
       github: `https://github.com/hamfan524`, // `https://github.com/hamfan524`,
-      velog: `https://velog.io/@hamfan524/posts`, // ``,
+      linkedIn: `https://velog.io/@hamfan524/posts`, // ``,
       email: `donghochoi312@gmail.com`, // `donghochoi312@gmail.com`,
     },
   },
