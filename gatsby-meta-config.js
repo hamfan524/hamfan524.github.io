@@ -43,12 +43,93 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2021.11 ~',
+        activity: 'iOS 개발 공부 시작 & 알고리즘 공부 시작',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2021.11.21 ~ 2021.12.17',
+        activity: 'S-DES 시뮬레이터(UIKit) 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/S-DES-Simulator',
+          demo: '',
+        },
+      },
+      {
+        date: '2022.09.01 ~ 2022.11.31',
+        activity: '(주)엠바스에서 3개월 인턴생활',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.01.26 ~ 2023.02.02',
+        activity: 'Diary(UIKit) 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/Diary',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.02.10 ~',
+        activity: 'CS 공부 시작',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/Today-We-Learn',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.09 ~',
+        activity: '앱 스쿨: iOS 3기 참여',
+        links: {
+          post: '',
+          github: 'https://github.com/APP-iOS3rd',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.10.11 ~ ',
+        activity: 'TouchSchool 앱 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/TouchSchool',
+          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
+        },
+      },
+      {
+        date: '2023.11.22 ~ ',
+        activity: 'Eighteen 앱 시작',
+        links: {
+          post: '',
+          github: 'https://github.com/LayTheGroundWork',
+          appStore: '',
+        },
+      },
+      {
+        date: '2023.12.05 ~ 2023.12.15',
+        activity: '청정구역 앱 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
+          appStore: '',
+        },
+      },
+      {
+        date: '2024.01.02 ~ ',
+        activity: 'PADO 앱 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/4T2F/PADO',
+          appStore: '',
         },
       },
     ],
@@ -71,18 +152,7 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      {
-        title: '개발 블로그 테마 개발',
-        description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
-        links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
-        },
-      },
+     
     ],
   },
 };
