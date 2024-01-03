@@ -35,11 +35,7 @@ https://www.youtube.com/watch?v=brYCFFWA_6M
 
 먼저, 개발환경과 라이브러리는 다음과 같다.
 
-[![swift](https://img.shields.io/badge/swift-5.9.0-orange)]()
-[![xcode](https://img.shields.io/badge/Xcode-15.0.1-blue)]()
-[![Firebase](https://img.shields.io/badge/Firebase-10.16.0-green)]()
-[![Alamofire](https://img.shields.io/badge/Alamofire-5.8.0-red)]()
-[![GoogleMobileAds](https://img.shields.io/badge/GoogleMobileAds-10.13.0-yellow)]()
+[![swift](https://img.shields.io/badge/swift-5.9.0-orange)]() [![xcode](https://img.shields.io/badge/Xcode-15.0.1-blue)]() [![Firebase](https://img.shields.io/badge/Firebase-10.16.0-green)]() [![Alamofire](https://img.shields.io/badge/Alamofire-5.8.0-red)]() [![GoogleMobileAds](https://img.shields.io/badge/GoogleMobileAds-10.13.0-yellow)]()
 
 ### 🎨 디자인
 
@@ -73,10 +69,12 @@ https://www.youtube.com/watch?v=brYCFFWA_6M
 
 <img src="cancel.png" width="400">
 
+
 진짜 아무런 이유도 없이 결제가 계속하여 취소되는 일이 있었는데, 처음엔 주소를 잘못 입력했나보다 싶어 다시 진행하였다.  
 하지만 또 다시 취소가 되는 일이 생겨 카드가 문제인듯하여 다른 새 카드를 새로 발급 받고, 그 뒤에 다시 진행하였으나 결과는 똑같이 '결제취소'였다..
 
 <img src="cancel2.png" width="450">
+
 
 그렇게 메일을 보냈으나, 온 답변은 앱으로 등록을 진행하라는 것이었고, 이미 3번째 새카드로 등록을 할땐 앱으로 진행한 나에겐 전혀 도움이 되지 못했다 ㅠ
 
@@ -84,7 +82,8 @@ https://www.youtube.com/watch?v=brYCFFWA_6M
 
 <img src="cancel3.png" width="500">
 
-처음 여기서 전화로 문의를 했을 땐, 상담사님께서 카드 문제일 수도 있다고 해서 카드를 재 발급 받았었으나,
+
+처음 여기서 전화로 문의를 했을 땐, 상담사님께서 카드 문제일 수도 있다고 해서 카드를 재 발급 받았었으나,  
 결국 새카드도 되지 않아, 다시 전화를 하니 상담사님께서 이전에 내가 등록하고 있던 과정 모두를 삭제해 주셨고, 초기화 한 상태에서 다시 진행하니 바로 등록이 되었다.
 
 그렇게 해결된 우리는 드디어 처음으로 앱을 배포할 수 있었고, 현재는 AppStore에서 TouchSchool을 이용할 수 있다.

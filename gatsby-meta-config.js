@@ -100,7 +100,7 @@ module.exports = {
         date: '2023.10.11 ~ ',
         activity: 'TouchSchool 앱 개발',
         links: {
-          post: '',
+          post: 'https://hamfan524.github.io/touchSchool/',
           github: 'https://github.com/hamfan524/TouchSchool',
           appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
         },
@@ -152,7 +152,19 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-     
+      {
+        title: 'TouchSchool',
+        description: '터치!터치!학교대항전!',
+        techStack: ['SwiftUI', 'Firebase', 'Alamofire'],
+        thumbnailUrl: 'appStore.png',
+        links: {
+          post: 'https://hamfan524.github.io/touchSchool/',
+          github: 'https://github.com/hamfan524/TouchSchool',
+          googlePlay: '',
+          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
+          demo: '',
+        },
+      },
     ],
   },
 };
