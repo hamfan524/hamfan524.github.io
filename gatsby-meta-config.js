@@ -52,7 +52,7 @@ module.exports = {
         },
       },
       {
-        date: '2021.11.21 ~ 2021.12.17',
+        date: '21.11.21 ~ 21.12.17',
         activity: 'S-DES 시뮬레이터(UIKit) 개발',
         links: {
           post: '',
@@ -61,7 +61,7 @@ module.exports = {
         },
       },
       {
-        date: '2022.09.01 ~ 2022.11.31',
+        date: '22.09.01 ~ 22.11.31',
         activity: '(주)엠바스에서 3개월 인턴생활',
         links: {
           post: '',
@@ -70,7 +70,7 @@ module.exports = {
         },
       },
       {
-        date: '2023.01.26 ~ 2023.02.02',
+        date: '23.01.26 ~ 23.02.02',
         activity: 'Diary(UIKit) 개발',
         links: {
           post: '',
@@ -115,7 +115,7 @@ module.exports = {
         },
       },
       {
-        date: '2023.12.05 ~ 2023.12.15',
+        date: '23.12.05 ~ 23.12.15',
         activity: '청정구역 앱 개발',
         links: {
           post: '',
