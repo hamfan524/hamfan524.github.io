@@ -153,8 +153,8 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: 'TouchSchool',
-        description: '터치!터치!학교대항전!',
+        title: 'TouchSchool - 터치!터치!학교대항전!',
+        description: '같이 공부하는 팀원분들과 함께 진행하며 배포까지 된 프로젝트 회고입니다.',
         techStack: ['SwiftUI', 'Firebase', 'Alamofire'],
         thumbnailUrl: 'appStore.png',
         links: {
