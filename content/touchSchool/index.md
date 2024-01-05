@@ -1,7 +1,7 @@
 ---
 emoji: 💨
 title: TouchSchool 앱 회고
-date: '2023-01-03 15:50:00'
+date: '2024-01-03 15:50:00'
 author: 최동호
 tags: 블로그 github-pages hamfan524
 categories: Projects
