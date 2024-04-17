@@ -42,9 +42,100 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
+   
       {
-        date: '2021.11 ~',
-        activity: 'iOS 개발 공부 시작 & 알고리즘 공부 시작',
+        date: '24.04.03 ~ 24.04.08',
+        activity: 'TouchSchool 앱 리팩토링',
+        links: {
+          post: 'https://hamfan524.github.io/touchSchool/',
+          github: 'https://github.com/hamfan524/TouchSchool',
+          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
+        },
+      },
+      {
+        date: '24.03.25 ~ 24.04.03',
+        activity: '청정구역 앱 리팩토링',
+        links: {
+          post: 'https://hamfan524.github.io/cleanArea/',
+          github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
+          appStore: '',
+        },
+      },
+      {
+        date: '24.03.06 ~ 24.04.11',
+        activity: 'PADO 앱 리팩토링',
+        links: {
+          post: '',
+          github: 'https://github.com/4T2F/PADO',
+          appStore: '',
+        },
+      },
+      {
+        date: '24.03.02 ~ ',
+        activity: 'Eighteen 앱 시작',
+        links: {
+          post: '',
+          github: 'https://github.com/LayTheGroundWork',
+          appStore: '',
+        },
+      },
+      {
+        date: '24.01.02 ~ 24.03.06',
+        activity: 'PADO 앱 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/4T2F/PADO',
+          appStore: '',
+        },
+      },
+      {
+        date: '23.12.05 ~ 23.12.15',
+        activity: '청정구역 앱 개발',
+        links: {
+          post: 'https://hamfan524.github.io/cleanArea/',
+          github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
+          appStore: '',
+        },
+      },
+      {
+        date: '2023.10.11 ~ ',
+        activity: 'TouchSchool 앱 개발',
+        links: {
+          post: 'https://hamfan524.github.io/touchSchool/',
+          github: 'https://github.com/hamfan524/TouchSchool',
+          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
+        },
+      },
+      {
+        date: '2023.09 ~ 2023.02',
+        activity: '앱 스쿨: iOS 3기 참여',
+        links: {
+          post: '',
+          github: 'https://github.com/APP-iOS3rd',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.02.10 ~',
+        activity: 'CS 공부 시작',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/Today-We-Learn',
+          demo: '',
+        },
+      },
+      {
+        date: '23.01.26 ~ 23.02.02',
+        activity: 'Diary(UIKit) 개발',
+        links: {
+          post: '',
+          github: 'https://github.com/hamfan524/Diary',
+          demo: '',
+        },
+      },
+      {
+        date: '22.09.01 ~ 22.11.31',
+        activity: '(주)엠바스에서 3개월 인턴생활',
         links: {
           post: '',
           github: '',
@@ -61,75 +152,12 @@ module.exports = {
         },
       },
       {
-        date: '22.09.01 ~ 22.11.31',
-        activity: '(주)엠바스에서 3개월 인턴생활',
+        date: '2021.11 ~',
+        activity: 'iOS 개발 공부 시작 & 알고리즘 공부 시작',
         links: {
           post: '',
           github: '',
           demo: '',
-        },
-      },
-      {
-        date: '23.01.26 ~ 23.02.02',
-        activity: 'Diary(UIKit) 개발',
-        links: {
-          post: '',
-          github: 'https://github.com/hamfan524/Diary',
-          demo: '',
-        },
-      },
-      {
-        date: '2023.02.10 ~',
-        activity: 'CS 공부 시작',
-        links: {
-          post: '',
-          github: 'https://github.com/hamfan524/Today-We-Learn',
-          demo: '',
-        },
-      },
-      {
-        date: '2023.09 ~',
-        activity: '앱 스쿨: iOS 3기 참여',
-        links: {
-          post: '',
-          github: 'https://github.com/APP-iOS3rd',
-          demo: '',
-        },
-      },
-      {
-        date: '2023.10.11 ~ ',
-        activity: 'TouchSchool 앱 개발',
-        links: {
-          post: 'https://hamfan524.github.io/touchSchool/',
-          github: 'https://github.com/hamfan524/TouchSchool',
-          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
-        },
-      },
-      {
-        date: '2023.11.22 ~ ',
-        activity: 'Eighteen 앱 시작',
-        links: {
-          post: '',
-          github: 'https://github.com/LayTheGroundWork',
-          appStore: '',
-        },
-      },
-      {
-        date: '23.12.05 ~ 23.12.15',
-        activity: '청정구역 앱 개발',
-        links: {
-          post: 'https://hamfan524.github.io/cleanArea/',
-          github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
-          appStore: '',
-        },
-      },
-      {
-        date: '2024.01.02 ~ ',
-        activity: 'PADO 앱 개발',
-        links: {
-          post: '',
-          github: 'https://github.com/4T2F/PADO',
-          appStore: '',
         },
       },
     ],
@@ -153,15 +181,15 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: 'TouchSchool - 터치!터치!학교대항전!',
-        description: '같이 공부하는 팀원분들과 함께 진행하며 배포까지 된 프로젝트 회고입니다.',
-        techStack: ['SwiftUI', 'Firebase', 'Alamofire'],
-        thumbnailUrl: 'touchSchool.png',
+        title: 'PADO - 파도,  내가 꾸미는 친구의 공간',
+        description: '꾸민 모습이 아닌, 자신의 진짜 모습을 보여줄 수 있는 SNS 앱이 만들고 싶어 진행하게 된 프로젝트입니다.',
+        techStack: ['SwiftUI', 'Firebase', 'KingFisher', 'Lottie'],
+        thumbnailUrl: 'pado.png',
         links: {
-          post: 'https://hamfan524.github.io/touchSchool/',
-          github: 'https://github.com/hamfan524/TouchSchool',
+          post: 'https://hamfan524.github.io/Pado/',
+          github: 'https://github.com/4T2F/PADO',
           googlePlay: '',
-          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
+          appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
           demo: '',
         },
       },
@@ -175,6 +203,19 @@ module.exports = {
           github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
           googlePlay: '',
           appStore: '',
+          demo: '',
+        },
+      },
+      {
+        title: 'TouchSchool - 터치!터치!학교대항전!',
+        description: '같이 공부하는 팀원분들과 함께 진행하며 배포까지 된 프로젝트 회고입니다.',
+        techStack: ['SwiftUI', 'Firebase', 'Alamofire'],
+        thumbnailUrl: 'touchSchool.png',
+        links: {
+          post: 'https://hamfan524.github.io/touchSchool/',
+          github: 'https://github.com/hamfan524/TouchSchool',
+          googlePlay: '',
+          appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
           demo: '',
         },
       },
