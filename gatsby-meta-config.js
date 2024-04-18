@@ -98,7 +98,7 @@ module.exports = {
         },
       },
       {
-        date: '2023.10.11 ~ ',
+        date: '23.10.11 ~ 23.12.04',
         activity: 'TouchSchool 앱 개발',
         links: {
           post: 'https://hamfan524.github.io/touchSchool/',
@@ -190,6 +190,19 @@ module.exports = {
           github: 'https://github.com/4T2F/PADO',
           googlePlay: '',
           appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
+          demo: '',
+        },
+      },
+      {
+        title: '멋쟁이사자처럼 iOS 3기 수료 후기 ',
+        description: '길지 않은 기간동안 많은 일이 있었던 멋쟁이 사자처럼 iOS 앱 스쿨에 대해 나의 솔직한 후기',
+        techStack: [],
+        thumbnailUrl: 'likeLion.png',
+        links: {
+          post: 'https://hamfan524.github.io/LikeLion/',
+          github: '',
+          googlePlay: '',
+          appStore: '',
           demo: '',
         },
       },

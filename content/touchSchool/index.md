@@ -18,8 +18,6 @@ categories: Projects
 https://github.com/hamfan524/TouchSchool
 
 
-
-
 ## ⭐️ 프로젝트 시작
 
 멋사 3기를 시작하며 같이 공부하는 팀으로 구성되었던 분들과 그냥 학습내용만 매일 공유하며 2주정도 보냈었다.
