@@ -65,7 +65,7 @@ module.exports = {
         date: '24.03.06 ~ 24.04.11',
         activity: 'PADO 앱 리팩토링',
         links: {
-          post: '',
+          post: 'https://hamfan524.github.io/Pado/',
           github: 'https://github.com/4T2F/PADO',
           appStore: '',
         },
@@ -83,7 +83,7 @@ module.exports = {
         date: '24.01.02 ~ 24.03.06',
         activity: 'PADO 앱 개발',
         links: {
-          post: '',
+          post: 'https://hamfan524.github.io/Pado/',
           github: 'https://github.com/4T2F/PADO',
           appStore: '',
         },
@@ -110,7 +110,7 @@ module.exports = {
         date: '2023.09 ~ 2023.02',
         activity: '앱 스쿨: iOS 3기 참여',
         links: {
-          post: '',
+          post: 'https://hamfan524.github.io/LikeLion/',
           github: 'https://github.com/APP-iOS3rd',
           demo: '',
         },
