@@ -1,7 +1,7 @@
 ---
 emoji: 🌊
 title: 파도 앱 회고
-date: '2024-04-16 04:05:00'
+date: '2024-03-16 04:05:00'
 author: 최동호
 tags: 블로그 github-pages hamfan524
 categories: Projects

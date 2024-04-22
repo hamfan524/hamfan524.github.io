@@ -65,9 +65,9 @@ module.exports = {
         date: '24.03.06 ~ 24.04.11',
         activity: 'PADO 앱 리팩토링',
         links: {
-          post: 'https://hamfan524.github.io/Pado/',
+          post: 'https://hamfan524.github.io/PadoRefactor/',
           github: 'https://github.com/4T2F/PADO',
-          appStore: '',
+          appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
         },
       },
       {
@@ -85,7 +85,7 @@ module.exports = {
         links: {
           post: 'https://hamfan524.github.io/Pado/',
           github: 'https://github.com/4T2F/PADO',
-          appStore: '',
+          appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
         },
       },
       {
