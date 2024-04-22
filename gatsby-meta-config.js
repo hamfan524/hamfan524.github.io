@@ -181,6 +181,19 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        title: 'PADO 앱 리팩토링 회고',
+        description: '코드를 볼 때마다 가슴아팠던 파도 리팩토링 기록',
+        techStack: ['SwiftUI', 'Firebase', 'KingFisher', 'Lottie'],
+        thumbnailUrl: 'padoRefactor.png',
+        links: {
+          post: 'https://hamfan524.github.io/PadoRefactor/',
+          github: 'https://github.com/4T2F/PADO',
+          googlePlay: '',
+          appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
+          demo: '',
+        },
+      },
+      {
         title: 'PADO - 파도,  내가 꾸미는 친구의 공간',
         description: '꾸민 모습이 아닌, 자신의 진짜 모습을 보여줄 수 있는 SNS 앱이 만들고 싶어 진행하게 된 프로젝트입니다.',
         techStack: ['SwiftUI', 'Firebase', 'KingFisher', 'Lottie'],
