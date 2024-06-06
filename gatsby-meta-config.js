@@ -47,7 +47,7 @@ module.exports = {
         date: '24.04.03 ~ 24.04.08',
         activity: 'TouchSchool 앱 리팩토링',
         links: {
-          post: 'https://hamfan524.github.io/touchSchool/',
+          post: 'https://hamfan524.github.io/touchSchool+cleanAreaRefactor/',
           github: 'https://github.com/hamfan524/TouchSchool',
           appStore: 'https://apps.apple.com/kr/app/touchschool-%ED%84%B0%EC%B9%98-%ED%84%B0%EC%B9%98-%ED%95%99%EA%B5%90%EB%8C%80%ED%95%AD%EC%A0%84/id6474486132',
         },
@@ -56,7 +56,7 @@ module.exports = {
         date: '24.03.25 ~ 24.04.03',
         activity: '청정구역 앱 리팩토링',
         links: {
-          post: 'https://hamfan524.github.io/cleanArea/',
+          post: 'https://hamfan524.github.io/touchSchool+cleanAreaRefactor/',
           github: 'https://github.com/hamfan524/PJ2T6_CleanArea',
           appStore: '',
         },
@@ -180,6 +180,19 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
+      {
+        title: 'touchSchool / cleanArea 리팩토링 회고',
+        description: '앱을 다시 새로 만든 리팩토링 기록',
+        techStack: ['SwiftUI', 'TCA', 'Firebase', 'KingFisher'],
+        thumbnailUrl: 'TCA.jpeg',
+        links: {
+          post: 'https://hamfan524.github.io/touchSchool+cleanAreaRefactor/',
+          github: 'https://github.com/hamfan524',
+          googlePlay: '',
+          appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
+          demo: '',
+        },
+      },
       {
         title: 'PADO 앱 리팩토링 회고',
         description: '코드를 볼 때마다 가슴아팠던 파도 리팩토링 기록',
