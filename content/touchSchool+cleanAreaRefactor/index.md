@@ -1,7 +1,7 @@
 ---
 emoji: 🌊
 title: touchSchool / cleanArea 리팩토링 회고
-date: '2024-04-17 1:02:30'
+date: '2024-04-17 01:02:30'
 author: 최동호
 tags: 블로그 github-pages hamfan524
 categories: Refactorings
