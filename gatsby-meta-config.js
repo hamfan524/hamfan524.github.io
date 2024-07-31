@@ -14,7 +14,7 @@ module.exports = {
     name: `최동호`,
     bio: {
       role: `iOS 개발자`,
-      description: ['소통과 함께 발전하는', '새로움을 좋아하는', '즐거움을 추구하는'],
+      description: ['+만큼 -도 좋아하는', '탄탄한 구조를 목표로 하는', '사용자 중심의 가치를 중요하게 여기는'],
       thumbnail: 'dongho.gif', // Path to the image in the 'asset' folder
     },
     social: {
@@ -42,7 +42,15 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-   
+      {
+        date: '24.04.11 ~ 진행 중',
+        activity: 'A-Teen 앱 시작',
+        links: {
+          post: '',
+          github: 'https://github.com/LayTheGroundWork/A-Teen_iOS/pulls?q=is%3Apr+is%3Aclosed+author%3Ahamfan524',
+          appStore: '',
+        },
+      },
       {
         date: '24.04.03 ~ 24.04.08',
         activity: 'TouchSchool 앱 리팩토링',
@@ -68,15 +76,6 @@ module.exports = {
           post: 'https://hamfan524.github.io/PadoRefactor/',
           github: 'https://github.com/4T2F/PADO',
           appStore: 'https://apps.apple.com/kr/app/pado-%ED%8C%8C%EB%8F%84/id6475384446',
-        },
-      },
-      {
-        date: '24.03.02 ~ ',
-        activity: 'Eighteen 앱 시작',
-        links: {
-          post: '',
-          github: 'https://github.com/LayTheGroundWork',
-          appStore: '',
         },
       },
       {
@@ -112,6 +111,15 @@ module.exports = {
         links: {
           post: 'https://hamfan524.github.io/LikeLion/',
           github: 'https://github.com/APP-iOS3rd',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.09.01',
+        activity: '정보처리기사 자격증 취득',
+        links: {
+          post: '',
+          github: '',
           demo: '',
         },
       },
