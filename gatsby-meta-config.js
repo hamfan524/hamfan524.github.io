@@ -43,6 +43,15 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        date: '24.08.03 ~ 24.09.13',
+        activity: 'SuddenVanguard 앱 개발',
+        links: {
+          post: 'https://hamfan524.github.io/SuddenVanguard',
+          github: 'https://github.com/Svanguard/SuddenVanguard',
+          appStore: '',
+        },
+      },
+      {
         date: '24.04.11 ~ 진행 중',
         activity: 'A-Teen 앱 시작',
         links: {
@@ -188,6 +197,19 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
+      {
+        title: 'SuddenVanguard',
+        description: 'FPS 게임 서든어택의 불법 프로그램 사용자를 줄이고 싶은 마음에 시작한 프로젝트',
+        techStack: ['SwiftUI', 'Combine', 'Tuist', 'KingFisher'],
+        thumbnailUrl: 'SuddenVanguardThumbnail.png',
+        links: {
+          post: 'https://hamfan524.github.io/SuddenVanguard',
+          github: 'https://github.com/Svanguard/SuddenVanguard',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
+      },
       {
         title: 'touchSchool / cleanArea 리팩토링 회고',
         description: '앱을 다시 새로 만든 리팩토링 기록',
