@@ -48,7 +48,7 @@ module.exports = {
         links: {
           post: 'https://hamfan524.github.io/SuddenVanguard',
           github: 'https://github.com/Svanguard/SuddenVanguard',
-          appStore: '',
+          appStore: 'https://apps.apple.com/kr/app/%EC%84%9C%EB%93%A0%EB%B1%85%EA%B0%80%EB%93%9C/id6670616799',
         },
       },
       {
@@ -206,7 +206,7 @@ module.exports = {
           post: 'https://hamfan524.github.io/SuddenVanguard',
           github: 'https://github.com/Svanguard/SuddenVanguard',
           googlePlay: '',
-          appStore: '',
+          appStore: 'https://apps.apple.com/kr/app/%EC%84%9C%EB%93%A0%EB%B1%85%EA%B0%80%EB%93%9C/id6670616799',
           demo: '',
         },
       },
